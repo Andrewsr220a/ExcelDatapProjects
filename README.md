@@ -1,2 +1,2 @@
 # ExcelDatapProjects
-All the research i've organized with excel
+All the research I've organized with excel.
