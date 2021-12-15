@@ -1,4 +1,4 @@
-# KickStarter Data Evaluation
+# Ra Ish KickStarter Data Evaluation
 
 ### Given the provided data, I drew the following three conclusions about Kickstarter campaigns:
 - Plays have the highest Success rate 
