@@ -1,6 +1,8 @@
 # KickStarter Data Evaluation
 
-### Given the provided data, I drew the following three conclusions about Kickstarter campaigns:
+![app gih](https://user-images.githubusercontent.com/77027814/146253212-972ffd33-c3a1-423f-83e8-0509db1f0227.gif)
+
+Given the provided data, I drew the following three conclusions about Kickstarter campaigns:
 - Plays have the highest Success rate 
 - Most kickstarts fail toward the end of the summer (3rd quarter), Most successful kick starters happen during March to Aug 
 - 37% of data of projects failed while 53% of the projects were successful.:
@@ -10,13 +12,13 @@
 -	Going further most increases in success were seen during the summer months of July and August with almost 222 avg successful businesses. 
 
 
-### Some limitations of this dataset are:
+Some limitations of this dataset are:
 -	Regions of these countries received the most donations. 
 -	Demographics such as age, race and sex of the populations the businesses are serving. 
 -	It doesn’t show where the app is available 
 
 
-### More insights 
-- The mean is more representative of the data set than the median simply because the mean has more values around it. 
+More insights 
 
+- The mean is more representative of the data set than the median simply because the mean has more values around it. 
 - There’s more variability with successful cases than with failed cases. This makes sense because the businesses that had success likely had more backers. The number of backers appeared lower on accounts that failed which makes sense to them failing. 
